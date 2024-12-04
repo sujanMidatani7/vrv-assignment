@@ -1,4 +1,4 @@
-# vrv-assignment
+# FastAPI Authentication and Role-Based Access Control (RBAC)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
